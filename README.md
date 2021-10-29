@@ -1,6 +1,6 @@
 # Moris-Code-Translator
 Text Based Program that can translate English and Morse code messages.
-## Other features:
+## Features:
   <ul>
   <li><b>Two way translator:</b></li>
   <img src="https://raw.githubusercontent.com/Salsam0de/Moris-Code-Translator/main/Project%20Images/Two Languages.png">
